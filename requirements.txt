@@ -1,6 +1,6 @@
 autopep8==1.4.4
 beautifulsoup4==4.8.1
-Django==1.11
+Django==1.11.23
 django-bootstrap3==11.1.0
 Pillow==6.2.1
 psycopg2==2.8.4
